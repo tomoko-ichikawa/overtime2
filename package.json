@@ -1,5 +1,8 @@
 {
   "name": "overtime2",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "gritter": "^1.7.4",
+    "jquery": "^3.5.1"
+  }
 }
